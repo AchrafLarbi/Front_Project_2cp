@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Front_Project_2cp
 Esi-Check Frontend
 
@@ -30,19 +29,16 @@ git clone https://github.com/your-username/esi-check-frontend.git
 
 Navigate to the project directory.
 
-bash
 
-cd esi-check-frontend
+    cd esi-check-frontend
 
 Install dependencies.
 
-bash
 
-npm install
+    npm install
 
 Start the development server.
 
-bash
 
     npm start
 
@@ -67,6 +63,9 @@ Acknowledgments
 Contact
 
 If you have any questions or suggestions, feel free to contact us at larbiachraf03@gmail.com.
+
+Thank you for using Esi-Check Frontend!
+
 
 Thank you for using Esi-Check Frontend!
 =======
